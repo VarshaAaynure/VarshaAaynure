@@ -12,7 +12,10 @@ I mostly work with Kubernetes,Terraform, OpenShift, Git, Jenkins, Docker and Lin
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
  </p>
-  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VarshaAaynure&show_icons=true&hide=stars)
+
+![HitCount](http://hits.dwyl.com/VarshaAaynure/VarshaAaynure.svg)
 
 ### 📫 How to reach me?
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/varsha-aaynure/) 👨🏻‍💻
