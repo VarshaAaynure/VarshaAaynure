@@ -35,6 +35,7 @@ I mostly work with Kubernetes,Terraform, OpenShift, Git, Jenkins, Docker and Lin
 ### 📫 How to reach me?
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/varsha-aaynure/) 👨🏻‍💻
  - Shoot Me an [Email](varshaainure98@gmail.com) 💌
+ - Check out my blogs [Medium](https://medium.com/@varshaaaynure) 📝
 
 <!--
 **VarshaAaynure/VarshaAaynure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
